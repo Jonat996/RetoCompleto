@@ -1,4 +1,4 @@
-const BASE_URL           = "http://localhost:8080/"
+const BASE_URL           = "http://localhost:80/"
 const URL_MESSAGE = BASE_URL + "api/Message/"
 const URL_CLOUD = BASE_URL + "api/Cloud/"
 
